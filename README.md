@@ -1,1 +1,1 @@
-Data Structures using cpp 🖥️
+Data Structures and Algorithms using cpp 🖥️
